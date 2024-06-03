@@ -1,0 +1,47 @@
+/* Navbar styles */
+.navbar {
+    background-color: #f8f9fa !important; /* Light grey */
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Header styles */
+header {
+    background-color: #007bff; /* Blue */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Footer styles */
+footer {
+    background-color: #f8f9fa; /* Light grey */
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Container styles */
+.container {
+    margin-top: 50px;
+}
+
+/* General styles */
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 18px;
+}
+
+/* Gallery item styles */
+.col-md-4 {
+    margin-bottom: 20px;
+}
+
+.col-md-4 img {
+    width: 100%;
+    height: auto;
+}
